@@ -1,5 +1,3 @@
-# Java
-
 # ☕ Java Magic ☕
 
 *Java*, the caffeine-fueled wizard of the programming realm, is a language that dances gracefully between the realms of **simplicity** and **power**. Picture it as the _barista_ of the coding world, meticulously crafting programs with the precision of a seasoned coffee artisan.
